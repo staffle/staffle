@@ -1,5 +1,5 @@
 - I’m Amit!
-- I’m looking to collaborate on rojects related AI, CI/CD and any backend stuff.
+- I’m looking to collaborate on projects related AI, CI/CD and any backend stuff.
 - How to reach me : email at amit.dwivedi.nit@gmail.com
 
 <!---
